@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nipelutoqora.pages.dev/sitemap.xml
